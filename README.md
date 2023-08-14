@@ -1,2 +1,2 @@
 # C/Cpp
-- These project I did in university
+- These projects relate to C/Cpp programing language which I did in university
